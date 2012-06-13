@@ -1,0 +1,11 @@
+gui/console/gui_console
+gui/gtk/gui_gtk
+module/*.order
+module/*.symvers
+module/*.ko
+module/*.mod.c
+module/*.cmd
+*.o
+module/.tmp_versions/*
+*.sw[op]
+**/*.sw[op]
