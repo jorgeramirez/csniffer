@@ -28,4 +28,6 @@ end application (CLI or GTK based).
 Kernel Version
 --------------
 
-This program was tested against linux kernel version 3.3.8-1
+This program was tested against linux kernel versions: 
+* 3.3.x
+* 3.4.x
