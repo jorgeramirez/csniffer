@@ -31,3 +31,4 @@ Kernel Version
 This program was tested against linux kernel versions: 
 * 3.3.x
 * 3.4.x
+* 3.7.x
